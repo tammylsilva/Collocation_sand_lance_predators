@@ -1,4 +1,4 @@
-# Title: High collocation between sand lance and top predators: implications for conservation and management
+# Title: High collocation of sand lance and top predators: implications for conservation and management
 
 This repository contains data and code for the above manuscript
 
@@ -6,7 +6,7 @@ Authors: Tammy L. Silva, David Wiley, Michael Thompson, Peter Hong, Les Kaufman,
 
 Journal: Conservation Science and Practice
 
-Link:
+Link: https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/csp2.274
 
 Data: raw count data for species sighted on research cruises
 
