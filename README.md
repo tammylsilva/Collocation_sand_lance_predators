@@ -11,3 +11,5 @@ Link: https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/csp2.274
 Data: raw count data for species sighted on research cruises
 
 Code: script used to clean data, conduct analyses and create figures in the manuscript
+
+This work was supported by the Bureau of Ocean Energy Management. 
